@@ -491,16 +491,16 @@ input[type=text] {
 
 @media only screen and (max-width: 400px) {
     #r3 {
-        word-spacing: 10px;
-        margin-left: 2px;
+        word-spacing: 11px;
+       
     }
     #r1 {
         word-spacing: 11px;
     }
     #r2 {
-        word-spacing: 13px;
+        word-spacing: 14px;
     }
     #r4 {
-        word-spacing: 8px;
+        word-spacing: 4px;
     }
 }
