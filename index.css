@@ -8,7 +8,7 @@ body {
 #s0 {
     border: 7px solid #332b42;
     background-color: #342d41;
-    width: 318px;
+    width: 320px;
     height: 638px;
     display: flex;
     flex-wrap: wrap;
@@ -21,7 +21,7 @@ body {
 
 #s1 {
     height: 635px;
-    width: 320px;
+    width: 325px;
     clip-path: polygon(0 35%, 0 26%, 0 0, 100% 0, 100% 28%, 100% 36%, 97% 53%, 96% 74%, 96% 100%, 4% 100%, 4% 73%, 3% 52%);
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
@@ -244,12 +244,8 @@ input[type=text] {
 #r1 {
     color: #a38423;
     position: absolute;
-    word-spacing: 14px;
-    font-weight: bold;
-    margin-left: 9px;
-    margin-bottom: 1px;
-    font-size: 8px;
-    margin-top: 5px;
+    margin-top: 1px;
+    word-spacing: 13px;
 }
 
 #r2 {
@@ -315,7 +311,7 @@ input[type=text] {
 #r3 {
     position: absolute;
     color: #625529;
-    word-spacing: 15px;
+    word-spacing: 16px;
     margin-left: 5px;
     font-weight: bold;
     font-size: 14px;
@@ -489,18 +485,22 @@ input[type=text] {
     display: none;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
     #r3 {
-        word-spacing: 11px;
-       
+        word-spacing: 18px;
+        margin-left: 2px;
     }
     #r1 {
-        word-spacing: 11px;
+        word-spacing: 13px;
     }
     #r2 {
-        word-spacing: 14px;
+        word-spacing: 19px;
     }
     #r4 {
-        word-spacing: 4px;
+        word-spacing: 12px;
     }
+    #r8 {
+        word-spacing: 33px;
+    }
+    
 }
