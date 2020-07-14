@@ -487,22 +487,22 @@ input[type=text] {
 
 @media only screen and (max-width: 600px) {
     #r3 {
-        word-spacing: 18px;
+        word-spacing: 11px;
         margin-left: 2px;
-display:none;
+
 
     }
     #r1 {
         word-spacing: 13px;
-display:none;
+
     }
     #r2 {
         word-spacing: 19px;
-display:none;
+
     }
     #r4 {
-        word-spacing: 12px;
-display:none;
+        word-spacing: 8px;
+
     }
     #r8 {
         word-spacing: 33px;
