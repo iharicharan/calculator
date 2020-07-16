@@ -4,7 +4,8 @@ body {
     flex-wrap: wrap;
     justify-content: center;
 }
-
+#sec1{
+margin-left:69px;}
 #s0 {
     border: 7px solid #332b42;
     background-color: #342d41;
@@ -507,5 +508,6 @@ input[type=text] {
     #r8 {
         word-spacing: 33px;
     }
-    
+    #sec1{
+margin-left:30px;}
 }
