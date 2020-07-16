@@ -494,11 +494,11 @@ input[type=text] {
 
     }
     #r1 {
-        word-spacing: 13px;
+        word-spacing: 10px;
 
     }
     #r2 {
-        word-spacing: 19px;
+        word-spacing: 22px;
 
     }
     #r4 {
@@ -509,5 +509,5 @@ input[type=text] {
         word-spacing: 33px;
     }
     #sec1{
-margin-left:30px;}
+margin-left:38px;}
 }
